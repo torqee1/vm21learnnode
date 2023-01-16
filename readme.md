@@ -10,3 +10,4 @@
 `git config --global init.defaultBranch main`
 
 `npm i` - if node_modules/ lost
+#hello guys
